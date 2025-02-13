@@ -1,2 +1,2 @@
-# banking_system
+# workout_tracker
 CRUD project
