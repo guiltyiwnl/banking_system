@@ -1,2 +1,2 @@
 # workout_tracker
-CRUD project
+CRUD Database project (using SQLite)
